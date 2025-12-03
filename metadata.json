@@ -1,0 +1,5 @@
+{
+  "name": "RupeeReality",
+  "description": "A clean, data-backed visualization tool to check if Indian salaries and investments are beating real inflation.",
+  "requestFramePermissions": []
+}
